@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  generate: MyString
+  model: MyString
+  Movie: MyString
+
+two:
+  generate: MyString
+  model: MyString
+  Movie: MyString
